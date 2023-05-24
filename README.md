@@ -4,4 +4,4 @@ This project was built in Flutter. Flutter **version 3.10.1**
 
 ## Preview
 
-![record](./assets/record.gif)
+<img src="./assets/record.gif" width=250 height=500>
